@@ -1,3 +1,1 @@
-rUnit is a very simple testing framework Ruby developers can use to test their code.  
-As of version 0.1, the only method available is assert_true.  
-The code should be self-explanatory.  As the project expands, I'll write more here.
+rUnit: I wanted to mess around with Ruby's reflection model, so this is a simple assertion testing framework I wrote.  Besides school projects, this is my first real, personal, Ruby project.
